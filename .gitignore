@@ -1,0 +1,8 @@
+.vs/
+.vs/
+.vs/
+.vs/
+*.log
+*.tmp
+node_modules/
+.env
